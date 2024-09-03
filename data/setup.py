@@ -1,4 +1,4 @@
-__author__ = 'justinarmstrong'
+__author__ = 'Jona163'
 
 """
 This module initializes the display and creates dictionaries of resources.
